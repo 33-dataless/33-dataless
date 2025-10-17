@@ -3,7 +3,7 @@
 
 # 17yo data-science | ml-engeener
 
-#№ selfstudy every day 5 hour's
+## selfstudy every day 5 hour's
 
 ## main-stack
 - python/java/rust
