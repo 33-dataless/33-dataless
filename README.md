@@ -16,11 +16,13 @@ I study at the institute "БГУ"
 I am taking the course from vk_education as a student ( math/algorithm ) 
 
 ## project
-- fake anonymoys bot ( full clone a famous bot ) {python | postgresql (<b>who know: fsm<\b>, keyboard's, middleware, builder keyboard) | logging | asyncio | }   no source because i wont
+- fake anonymoys bot ( full clone a famous bot ) {python | postgresql (<b>who know: fsm</b>, keyboard's, middleware, builder keyboard) | logging | asyncio | }   no source because i wont
 
 ### book's
 Марк Лутц - изучаем python ( 1 том )
 Чарльз Пецтольд - тайный язык информатики
+
 Адитья Бхаргава - грокаем алгоритмы
+
 
 dota2 3pos lone druid / broodmother / beastmaster / visage
