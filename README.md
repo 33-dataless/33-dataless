@@ -8,7 +8,10 @@
 ## main-stack
 - python/java/rust
 - postgresql/redis ( run image redis using docker in windows sub-system linux )
-- NumPy/aiogram/OOP
+- NumPy
+- aiogram
+- git
+- code without AI
 
 ## about selfstudy:
 - I study at the institute "БГУ"
