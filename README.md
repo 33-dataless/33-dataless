@@ -20,6 +20,7 @@ I am taking the course from vk_education as a student ( math/algorithm )
 
 ### book's
 Марк Лутц - изучаем python ( 1 том )
+
 Чарльз Пецтольд - тайный язык информатики
 
 Адитья Бхаргава - грокаем алгоритмы
