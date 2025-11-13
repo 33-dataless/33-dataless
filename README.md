@@ -14,8 +14,8 @@
 - code without AI
 
 ## about selfstudy:
-- I study at the institute "БГУ"
-- I am taking the course from vk_education as a student ( math/algorithm ) 
+тир3 уник заоч
+- книги, фри курсы и тддддддд
 
 ## project
 - fake anonymoys bot ( full clone a famous bot ) {python | postgresql (<b>who know: fsm</b>, keyboard's, middleware, builder keyboard) | logging | asyncio | }   no source because i wont
