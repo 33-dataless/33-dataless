@@ -1,25 +1,52 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Profile</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Ballet:opsz@16..72&display=swap" rel="stylesheet">
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Ballet:opsz@16..72&display=swap" rel="stylesheet">
-<div class="maingif">
-    <img align="middle" src="source\lelouch.gif" alt="gif not loaded">
-    <div class="heading">17yo software developer</div>
-</div>
-<style>
-    .maingif {
-        position: relative;
-        display: inline-block;
-    }
-    .maingif img {
-        display: block;
-    }
-    .heading {
-        position: absolute;
-        top: 200px;
-        left: 90px;
-        font-size: 70px;
-        font-family: "Ballet", cursive;
-        font-weight: 400;
-    }
-</style>
+    <style>
+        body {
+            margin: 0;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            background-color: #0D1117;
+        }
+
+        .maingif {
+            position: relative;
+            display: inline-block;
+            margin-top: 20px;
+        }
+
+        .maingif img {
+            display: block;
+            max-width: 100%;
+            height: auto;
+        }
+
+        .heading {
+            position: absolute;
+            top: 185px;
+            left: 70px;
+            font-size: 75px;
+            font-family: "Ballet", cursive;
+            font-weight: 400;
+            color: white;
+            pointer-events: none;
+            text-align: right;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="maingif">
+        <img src="source/lelouch.gif" alt="gif not loaded">
+        <div class="heading">17yo software developer</div>
+    </div>
+
+</body>
+</html>
