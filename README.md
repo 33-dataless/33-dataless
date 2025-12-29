@@ -4,8 +4,18 @@
 <h1 align="center"> Roman Nervousness | 33-dataless </h1>
 <h3 align="center"> 17yo software developer, future data science ml engineer <h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,rust,java,postgres,)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=redis,docker,git,linux,)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" style="margin:0 10px;">
+    <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="50" style="margin:0 10px;">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" style="margin:0 10px;">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" width="50" style="margin:0 10px;">
+    <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="50" style="margin:0 10px;">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" style="margin:0 10px;">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" style="margin:0 10px;">
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" style="margin:0 10px;">
+  </a>
+</p>
 
 <h1 align="center">my best hero in dota 2</h1>
 
