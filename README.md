@@ -1,7 +1,7 @@
 
 <div align="center"><img src="source\lelouch.gif" alt="gif not loaded" width="500" height="100"></div>
 
-<h1 align="center"> Roman Nervousness | 33-dataless </h1>
+<h1 align="center"> Roma Nervousness | 33-dataless </h1>
 <h3 align="center"> 17yo software developer, future data science ml engineer <h3>
 
 <p align="center">
