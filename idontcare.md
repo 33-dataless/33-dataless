@@ -1,0 +1,1 @@
+idc how i write code there, i'm just wanna see my hero in my github pages
