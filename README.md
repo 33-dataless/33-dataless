@@ -1,32 +1,25 @@
 
-<img src="https://i.pinimg.com/originals/95/75/eb/9575eb53737268e3ec213d6d8230037c.gif" alt="gif not loaded">
-
-# 17yo data-science | ml-engeener
-
-## selfstudy every day 5 hour's
-
-## main-stack
-- python/java/rust
-- postgresql/redis ( run image redis using docker in windows sub-system linux )
-- NumPy
-- aiogram
-- git
-- code without AI
-
-## about selfstudy:
-тир3 уник заоч
-- книги, фри курсы и тддддддд
-
-## project
-- fake anonymoys bot ( full clone a famous bot ) {python | postgresql (<b>who know: fsm</b>, keyboard's, middleware, builder keyboard) | logging | asyncio | }   no source because i wont
-
-### book's
-- Марк Лутц - изучаем python ( 1 том )
-- Чарльз Пецтольд - тайный язык информатики
-- Aдитья Бхаргава - грокаем алгоритмы
-
-### dota2 3pos 
-- lone druid
-- broodmother
-- beastmaster
-- visage
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Ballet:opsz@16..72&display=swap" rel="stylesheet">
+<div class="maingif">
+    <img align="middle" src="source\lelouch.gif" alt="gif not loaded">
+    <div class="heading">17yo software developer</div>
+</div>
+<style>
+    .maingif {
+        position: relative;
+        display: inline-block;
+    }
+    .maingif img {
+        display: block;
+    }
+    .heading {
+        position: absolute;
+        top: 200px;
+        left: 90px;
+        font-size: 70px;
+        font-family: "Ballet", cursive;
+        font-weight: 400;
+    }
+</style>
