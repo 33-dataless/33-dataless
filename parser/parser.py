@@ -8,12 +8,13 @@ import time
 
 def return_readme(readme_data: list) -> str:
     return f"""
-<div align="center"><img src="source\lelouch.gif" alt="gif not loaded"></div>
+<div align="center"><img src="source\lelouch.gif" alt="gif not loaded" width="500" height="100"></div>
 
 <h1 align="center"> Roman Nervousness | 33-dataless </h1>
 <h3 align="center"> 17yo software developer, future data science ml engineer <h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,rust,java,postgres,redis,docker,git,kali,linux,)](https://skillicons.dev)
+<div align="center">[![My Skills](https://skillicons.dev/icons?i=python,rust,java,postgres,)](https://skillicons.dev)</div>
+<div align="center">[![My Skills](https://skillicons.dev/icons?i=redis,docker,git,linux,)](https://skillicons.dev)</div>
 
 <h1 align="center">my best hero in dota 2</h1>
 
@@ -24,14 +25,14 @@ def return_readme(readme_data: list) -> str:
     <td><div align="center"><img src="source\Doom_minimap_icon.webp       " width="55"></td>
   </tr>
   <tr align="center">
-    <td>winrate: {readme_data[0][2]}</td>
-    <td>winrate: {readme_data[1][2]}</td>
-    <td>winrate: {readme_data[2][2]}</td>
+    <td>winrate: <div style="color: green">{readme_data[0][2]}</div></td>
+    <td>winrate: <div style="color: green">{readme_data[1][2]}</div></td>
+    <td>winrate: <div style="color: green">{readme_data[2][2]}</div></td>
   </tr>
   <tr align="center">
-    <td>matches: {readme_data[0][1]}</td>
-    <td>matches: {readme_data[1][1]}</td>
-    <td>matches: {readme_data[2][1]}</td>
+    <td>matches: <div style="color: yellow">{readme_data[0][1]}</div></td>
+    <td>matches: <div style="color: yellow">{readme_data[1][1]}</div></td>
+    <td>matches: <div style="color: yellow">{readme_data[2][1]}</div></td>
   </tr>
 </table>
 
@@ -76,10 +77,6 @@ def build_readme() -> None:
     try:
         driver.get("https://ru.dotabuff.com/players/1485404803/heroes")
         time.sleep(5)
-
-        title = driver.title
-        print(title)
-
         element = driver.find_element(By.CLASS_NAME, "sortable")
 
         with open(r'parser\answer.html', 'w', encoding="utf-8") as file:
