@@ -4,8 +4,8 @@
 <h1 align="center"> Roman Nervousness | 33-dataless </h1>
 <h3 align="center"> 17yo software developer, future data science ml engineer <h3>
 
-<div align="center">[![My Skills](https://skillicons.dev/icons?i=python,rust,java,postgres,)](https://skillicons.dev)</div>
-<div align="center">[![My Skills](https://skillicons.dev/icons?i=redis,docker,git,linux,)](https://skillicons.dev)</div>
+[![My Skills](https://skillicons.dev/icons?i=python,rust,java,postgres,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redis,docker,git,linux,)](https://skillicons.dev)
 
 <h1 align="center">my best hero in dota 2</h1>
 
