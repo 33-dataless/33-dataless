@@ -4,4 +4,3 @@
   <img src="https://skillicons.dev/icons?i=c,python,fastapi,graphql,postgres,redis,docker,git,github,linux,debian,ubuntu,kali,neovim,obsidian" />
 </p>
 
-##### altana
