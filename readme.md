@@ -1,11 +1,10 @@
-<h1 align="center"> Roma Trager </h1>
-<h3 align="center"> 18yo software developer <h3>
+<h1 align="center"> roma trager | 18 yo </h1>
+<h3 align="center"> web pentest | reverse engineering | software development <h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,fastapi,graphql,postgres,redis,docker" />
   <br>
   <img src="https://skillicons.dev/icons?i=git,github,linux,debian,ubuntu,kali,neovim,obsidian" />
 </p>
-
 
 ### Tech Stack
 Languages: C · Python · SQL · C++ · Rust
