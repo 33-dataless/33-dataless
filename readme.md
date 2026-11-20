@@ -6,29 +6,32 @@
   <img src="https://skillicons.dev/icons?i=git,github,linux,debian,ubuntu,kali,neovim,obsidian" />
 </p>
 
+
 ### Tech Stack
+Languages: C · Python · SQL · C++ · Rust
 
-**Languages:** C · Python · SQL · C++ · Rust
+Databases: PostgreSQL · Redis
 
-**Databases:** PostgreSQL · Redis
+OS: Kali Linux · Debian 13 · Ubuntu · WSL
 
-**OS:** Kali Linux · Debian 13 · Ubuntu · WSL
+IDE & RE: IDA Pro · Ghidra · Helix · VS Code · Remote SSH
 
-**IDE & RE:** IDA Pro · Ghidra · Helix · VS Code
+Tools: Git · JSON · CSV · Obsidian · curl
 
-**Tools:** Git · JSON · CSV · Obsidian
+DevOps: Docker · SSH · venv
 
-**DevOps:** Docker · SSH · venv
+Python: asyncio · schedule · PyNaCl · watchdog · Pydantic · aiogram · Telethon · SQLAlchemy · psycopg · NumPy · Pandas · logging
 
-**Python:** asyncio · aiogram · Telethon · SQLAlchemy · psycopg · NumPy · Pandas · logging
+OSINT: Nmap · WHOIS · dig · Sherlock · OpenAlex · OSINT Framework · Overpass Turbo · Telelog · Maltego · Google Dorks · Metadata Analysis
 
-**OSINT:** Nmap · Sherlock · OpenAlex · OSINT Framework · Overpass Turbo · Telelog · Maltego · Google Dorks · WHOIS · Metadata Analysis
+Network & Security: UFW · WhatWeb · OWASP ZAP
 
-**Development:** Bots · Parsers · Automation · Anti-Fraud · Honeypots
+Local AI: Qwen 2.7B · llama.cpp
 
-**Security Research:** Reverse Engineering · ASM · Malware Analysis
+Development: Bots · Parsers · Automation · Anti-Fraud · Honeypots
 
-**Typing Speed — Monkeytype**
+Security Research: Reverse Engineering · ASM · Malware Analysis
+
 
 | Language | 15s | 60s |
 |:--|--:|--:|
