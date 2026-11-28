@@ -17,4 +17,4 @@ Security Engineer with a Software Engineering Background
 | **AI & Developer Tooling** | OpenCode · llama.cpp · Codex · Qwen · Obsidian |
 
 ## LINKS
-Telegram - @feedbackdmbot
+**Telegram - @feedbackdmbot**
